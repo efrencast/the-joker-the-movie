@@ -1,0 +1,115 @@
+nav ul li {
+  color: black;
+  list-style-type: none;
+  display: inline;
+  text-align: center;
+}
+
+nav ul li {
+  text-align: center;
+}
+
+.cover {
+  background-color: #000000;
+  padding: 5rem 3rem;
+}
+
+.about {
+  background-color: #000000;
+  padding: 5rem 3rem;
+}
+
+.starring {
+  background-color: #000000;
+  padding: 5rem 3rem;
+}
+
+.credits {
+  background-color: #000000;
+  padding: 5rem 3rem;
+}
+
+footer {
+  background-color: #30333B;
+  padding: 5rem 0;
+}
+
+.wrapper {
+
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: 'Rock Salt', cursive;
+  color: #93A64E;
+  margin-bottom: 0;
+}
+
+.cover p {
+  text-align: center;
+  color: #93A64E;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 3rem;
+  font-family: 'Rock Salt', cursive;
+  margin: 4rem 0;
+  color: #FFFFFF;
+  text-align: center;
+}
+
+h3 {
+  font-size: 1rem;
+  font-family: 'Rock Salt', cursive;
+  margin: 4rem 0;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 1.2rem;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 4rem;
+  color: white;
+}
+
+img {
+  width: 100%;
+  margin: 5rem 0;
+}
+
+.button {
+  background-color: #732514;
+  text-align: center;
+  width: 50rem;
+  padding: 2rem;
+  margin: 3rem 0 0 0;
+}
+
+.button:hover {
+  background-color: #732514;
+}
+
+footer p {
+  font-size: .8rem;
+  color: white;
+  text-align: center;
+  color: gray;
+}
+
+ul li {
+  font-family: 'Ubuntu', sans-serif;
+  list-style: square;
+  margin-left: 2rem;
+  line-height: 4rem;
+  color: white;
+}
+
+/* MEDIA QUERIES */
+
+@media (min-width: 1440px) {
+  .wrapper {
+   background-color: firebrick;
+  }
+}
